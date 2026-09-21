@@ -23,22 +23,21 @@ https://nknu-air-drag-simulator.streamlit.app/
 
 ### Vacuum
 
-\[
+$$
 \frac{dv}{dt}=-g
-\]
+$$
 
 ### Linear Drag
 
-\[
+$$
 F_D=-bv
-\]
+$$
 
 ### Quadratic Drag
 
-\[
+$$
 F_D=-\frac{1}{2}\rho C_D A v|v|
-\]
-
+$$
 ## Numerical Method
 
 The simulation uses SciPy `solve_ivp` to solve the equations of motion numerically.
