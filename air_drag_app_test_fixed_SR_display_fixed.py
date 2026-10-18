@@ -350,10 +350,7 @@ $F_D=-6\pi\mu rv$（$b=6\pi\mu r$）；一般落體若雷諾數很高，就不�
 除 $v/c$ 外，還要檢查 Mach number、Reynolds number 與空氣壓縮性等適用條件。
 速度接近光速時，牛頓解僅是反事實的數學比較，並不代表物體真的可以超光速。
 """)
-    st.caption(
-        "延伸閱讀：OpenStax《University Physics》Relativistic Momentum；"
-        "NASA Glenn Research Center《Drag Equation》與《Drag Coefficient》。"
-    )
+
 
 # ============================================================
 # 4. Sidebar
